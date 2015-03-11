@@ -1,0 +1,13 @@
+template(name="profile")
+    .row
+        #profileHeader.small-6 large-12 columns
+            img(src= #{profilePic}) //syntax incorrect
+            h3 #{profileName}
+        #profileHeroes.small-6 large-12 columns
+            .row
+                #profileHero1.small-12 large-4 columns
+                    +hero
+                #profileHero2.small-12 large-4 columns
+                    +hero
+                #profileHero3.small-12 large-4 columns
+                    +hero
