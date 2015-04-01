@@ -14,17 +14,37 @@ Sneef Focuses more on individual games and player roles, rather than gameplay-ov
 WIP
 ##Roles by position
 ###Position 1
+* farm effeciency
+* early game death avoidance
 ###Position 2
+* Gank frequency and quality
+* time of lvl 6
+* time of first major item
 ###Position 3
+* Jungle effeciency compared to lane
+* Level comparison optimization from apposing core
 ###Position 4
+* Time effeciency of first major teamfight item
+* Maintainance quality of position 5 ward effeciency
+* (if jungle) jungle efficiency
 ###Position 5
 * Ward effeciency
 * Mid Ganks
 * Early Game time effeciency
-
+* lane equilibrium optimization
+* stack amounts
 ##Roles by simple label
 ###Core
+* Farm efficiency
+* early game death avoidance
+* Gank frequency and quality
+* time of lvl 6
+* time of first major item
+* level comparison optimization of opposing laner
+* (if jungle) jungle efficiency
 ###Support
 * Ward effeciency
 * Mid Ganks
 * Early Game time effeciency
+* lane equilibrium optimization
+* stack amounts
