@@ -1,18 +1,30 @@
+     _____   ___    _   _____   _____   _____     _____   ___    _   _____   _____   _____   __
+    | ____| |   \  | | |  ___| |  ___| |  ___|   | ____| |   \  | | |  ___| |  ___| |  ___| |  |
+    | |___  | |\ \ | | | |__   | |__   | |__     | |___  | |\ \ | | | |__   | |__   | |__   |  |
+    |____ | | | \ \| | |  __|  |  __|  |  __|    |____ | | | \ \| | |  __|  |  __|  |  __|  |__|
+     ___| | | |  \   | | |___  | |___  | |        ___| | | |  \   | | |___  | |___  | |      __
+    |_____| |_|   \__| |_____| |_____| |_|       |_____| |_|   \__| |_____| |_____| |_|     |__|
+    
+#What is Sneef?
+Sneef is a stats-tracking algorithm that tracks gameplay of the game, DotA2, via valve's web api. Sneef tilizes Meteor, CoffeeScript, Jade, and Stylus for development, and Clarity for data generation.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+##How is sneef different from services like DotABuff?
+Sneef Focuses more on individual games and player roles, rather than gameplay-over-time charts. Roles can be dictated per account or per game, and follow typical team role norms for data analysis.
 
+WIP
+##Roles by position
+###Position 1
+###Position 2
+###Position 3
+###Position 4
+###Position 5
+* Ward effeciency
+* Mid Ganks
+* Early Game time effeciency
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+##Roles by simple label
+###Core
+###Support
+* Ward effeciency
+* Mid Ganks
+* Early Game time effeciency
