@@ -6,7 +6,10 @@
     |_____| |_|   \__| |_____| |_____| |_|       |_____| |_|   \__| |_____| |_____| |_|     |__|
     
 #What is Sneef?
-Sneef is a stats-tracking algorithm that tracks gameplay of the game, DotA2, via valve's web api. Sneef tilizes Meteor, CoffeeScript, Jade, and Stylus for development, and Clarity for data generation.
+Sneef is a stats-tracking algorithm that tracks gameplay of the game, DotA2, via valve's web api. Sneef tilizes [Meteor](meteor.com), [CoffeeScript](coffeescript.org), [Jade](jade-lang.com), and [Stylus](learnboost.github.io/stylus/) for development, and [Clarity](github.com/skadistats/clarity) for data generation. The twitter API is used for pro-player verification.
+
+##Where did Sneef come from?
+The term "sneef" originated from a match I played with a Russian player and a Meepo. The Meepo was not very good, and every time he would make a bad decision, the Russian player would yell "Sneef Sneefs, nooooooo!" This odd but hilarious situation combined with the idea of sniffing out data, is a major inspiration for the project.
 
 ##How is sneef different from services like DotABuff?
 Sneef Focuses more on individual games and player roles, rather than gameplay-over-time charts. Roles can be dictated per account or per game, and follow typical team role norms for data analysis.
